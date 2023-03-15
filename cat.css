@@ -1,0 +1,326 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+
+.nav1{
+    display: flex;
+    align-items: center;
+    padding-top: 0%;
+    margin-left: 20%;
+}
+.nav2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0px;
+    padding-right: 30px;
+    border: 2px #FFD600;
+    background-color: #FFD600;
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 50px;
+
+}
+#cat{
+padding:10px 40px;
+border:1px solid white;
+border-radius: 10px;
+}
+#search{
+padding: 10px 80px;
+border:1px solid white;
+border-radius: 10px;
+}
+#flag{
+    width:30px;
+    height:20px;
+    margin-left: 10%;
+}
+.nav1 ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+    align-items: center;
+
+}
+.nav1 li a{
+    text-decoration: none;
+    justify-content: space-between;
+    color:black;
+  
+}
+#logo{
+    width:30px;
+    height:30px;
+}
+.top{
+    background-image: url(/catalogue/images.2/logo1.png );
+    background-size: 20%;
+    border:2px solid black;
+   background-position: center;
+   background-repeat: no-repeat;
+   padding:40px;
+   background-color: black;
+}
+
+
+.side1, .side2,.side3, .side4{
+    padding:20px;
+    justify-content: space-between;
+}
+h4{
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+#image{
+    width:270px;
+    height:250px;
+    padding-bottom: 10px;
+}
+.flex1, .flex2, .flex3, .flex4, .flex5{
+    display:flex;
+    margin-left:20%;
+    padding: 30px;
+    
+}
+.box1, .box2, .box3{
+    margin-top: -85%;
+   padding-left: 30px;
+   padding-right: 20px;
+  
+}
+.box4, .box5, .box6{
+    margin-top: -40%;
+    padding-left: 30px;
+    padding-right: 20px;
+    
+}
+.box7, .box8, .box9{
+    margin-top:-2%;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 20px;
+   
+}
+.box10, .box11, .box12{
+    margin-top:2%;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 50px;
+   
+}
+.box13, .box14, .box15{
+    margin-top:0;
+    padding-left: 30px;
+    padding-right: 20px;
+   
+    
+}
+#rate{
+    width:10px;
+    height:10px;
+    padding-left: 3px;
+}
+.stars{
+    display: flex;
+
+}
+#but1, #but2, #but3{
+    background-color: #FFD600;
+    border-radius: 10px;
+    padding: 5px;
+    border:1px solid yellow
+}
+.disc{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+p{
+    padding-right: 20px;;
+}
+.price{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
+.page{
+    display:flex;
+    margin-left: 40%;
+    padding: 30px;
+}
+#num1, #num, #num5, #num12{
+    border:1px solid black;
+    padding: 10px 15px;
+    margin: 10px;
+    border-radius: 50px;
+}
+#num12{
+    border-radius: 100px;
+    padding:10px 50px;
+}
+#num1{
+    background-color: #FFD600;
+}
+#see{
+    margin-left: 50%;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    color: white;
+    background-color: #FFD600;
+    border:1px solid yellow;
+}
+
+#home{
+    width:20px;
+    height:20px;
+}
+
+.box11, .box12{
+    justify-content: space-around;
+}
+.footer{
+    display: flex;
+    margin:0px 40px;
+    background-color: #26004C;
+    border:1px solid #26004C ;
+    padding: 20px;
+    color:white;
+}
+.foot1 ul{
+list-style-type: none;
+}
+.foot2 ul{
+list-style-type: none;
+    }
+.foot3 ul{
+list-style-type: none;
+        }
+.foot1 ul li{
+           
+padding:10px;
+            }
+.foot2 ul li{
+           
+padding:10px;
+            }
+.foot3 ul li{
+           
+padding:10px;
+             } 
+.foot1 ul li a{
+           
+text-decoration: none;
+color:white;
+}                            
+.foot2 ul li a{
+    text-decoration: none;
+    color:white;
+    }
+.foot3 ul li a{
+    text-decoration: none;
+    color: white;
+        }   
+        #hfoot{
+            padding-bottom: 10px;
+            padding-right: 10px;
+        }
+
+
+.foot1, .foot2, .foot3, .foot4{
+    padding:0px 60px 0px 60px;
+}
+
+.foot1 ul{
+list-style-type: none;
+}
+.foot2 ul{
+list-style-type: none;
+    }
+.foot3 ul{
+list-style-type: none;
+        }
+.foot1 ul li{
+           
+padding:10px;
+            }
+.foot2 ul li{
+           
+padding:10px;
+            }
+.foot3 ul li{
+           
+padding:10px;
+             } 
+.foot1 ul li a{
+           
+text-decoration: none;
+color:white;
+}                            
+.foot2 ul li a{
+    text-decoration: none;
+    color:white;
+    }
+.foot3 ul li a{
+    text-decoration: none;
+    color:white;
+        }   
+        #hfoot{
+            padding-bottom: 10px;
+            padding-right: 10px;
+        }
+ 
+
+        @media (max-width: 900px) {
+            body{
+                margin:0px;
+                padding: 10px;
+            }
+            .nav1,.nav2{
+                flex-direction: column;
+                width: 40%;
+                height:auto;
+                padding-bottom: 20px;
+                margin-left: 1%;
+            }
+            #image{
+                width: 40%;
+                height: auto;
+            }
+          .side{
+            margin-left: 1%;
+          }
+            .flex1,.flex2,.flex3, .flex4, .flex5, .footer {
+                flex-direction: column;
+                width: 60%;
+                height: auto;             
+               margin-top: 5%;
+               padding-left: 3px;
+                 padding-right: 3px;
+                 padding-right: -3px;
+              
+              }
+              .box1, .box2, .box3{
+                  width:70%;
+                  padding-bottom: 5%;
+                  margin-left: 0%;
+                  margin-right: 0%;
+                 margin-top: 10%;
+                 padding-right: 3px;
+              }
+              .page{
+     width:100%;
+     margin-left :10%;
+     padding-left: 2px;
+              }
+              #see{
+      width:20%;
+              }
+           
+          }
+    
+        
