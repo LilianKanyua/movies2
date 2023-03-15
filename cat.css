@@ -229,7 +229,11 @@ color:white;
             padding-bottom: 10px;
             padding-right: 10px;
         }
-
+#wars{
+    width: 100px;
+    height: 70px;
+    margin-left: 50%;
+}
 
 .foot1, .foot2, .foot3, .foot4{
     padding:0px 60px 0px 60px;
@@ -276,10 +280,7 @@ color:white;
  
 
         @media (max-width: 900px) {
-            body{
-                margin:0px;
-                padding: 10px;
-            }
+          
             .nav1,.nav2{
                 flex-direction: column;
                 width: 40%;
@@ -296,7 +297,7 @@ color:white;
           }
             .flex1,.flex2,.flex3, .flex4, .flex5, .footer {
                 flex-direction: column;
-                width: 60%;
+                width: 70%;
                 height: auto;             
                margin-top: 5%;
                padding-left: 3px;
